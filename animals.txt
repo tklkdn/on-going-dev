@@ -8,3 +8,5 @@ Lizard
 Gorilla
 Elephant
 Dog
+sloth
+parrot
