@@ -2,4 +2,7 @@ lion
 tiger
 leopard
 turtle
-
+Lizard
+Gorilla
+Elephant
+Dog
