@@ -1,5 +1,7 @@
 lion
+zebra
 tiger
 leopard
 turtle
-
+lizard
+puppy
