@@ -1,7 +1,9 @@
 lion
+zebra
 tiger
 leopard
 turtle
+puppy
 Lizard
 Gorilla
 Elephant
