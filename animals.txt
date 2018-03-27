@@ -3,5 +3,12 @@ zebra
 tiger
 leopard
 turtle
+<<<<<<< HEAD
 lizard
 puppy
+=======
+Lizard
+Gorilla
+Elephant
+Dog
+>>>>>>> 527a4c5eaaf69914f460d5b0967d6db7559b5b02
